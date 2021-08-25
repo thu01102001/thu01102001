@@ -1,16 +1,19 @@
-### Hi there 👋
+### Hi there 👋 
+<div style="margin: auto;">
+  <div style="text-align: center">
+    <h2> <img src="https://discordhome.com/user_upload/emojis/AS0006297_15-gifemoji.gif" width="50" height="50"</img>  My name is <b>Nguyễn Thị Lệ Thu</b>
+    <img src="https://camo.githubusercontent.com/fb070d9f71a64edbafed08519130d75e7e0a0a69665d50d94ad095157f702e59/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6d47634e6a736657416a593541455a4e77362f67697068792e676966" width="50" height="50"</h2>
+  </div>
+</div>
 
-<!--
-**thu01102001/thu01102001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+- 🌱 I’m currently learning JS and PHP
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on HOC VIEN KI THUAT MAT MA 
+  
+- 📫 How to reach me: 0862483853 || nguyenthilethu2001vn@gmail.com || <a href="https://i.pinimg.com/originals/4f/cc/1d/4fcc1d2821711b78be84ecea8a0c9322.gif">Facebook</a>
+
+- ⚡ My preference : listen to music, watch movies and eat, ....
+
+- 💜 Nice to meet you ❤
+
