@@ -20,7 +20,7 @@
   
   <br />
 
-## 🧰 Languages and Tools:
+##Languages and Tools:
 <p align="center">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" height="40" style="vertical-align:top; margin:4px">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" height="40" style="vertical-align:top; margin:4px">
